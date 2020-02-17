@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A47A7A59-05F9-3098-E490-52DB33F73205}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FlyController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Blink.cs" Line="10" Column="42" />
+      <File FileName="Assets/Scripts/FlyController.cs" Line="21" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Death Simulator VR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FlyController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7ea108e2-7398-48cb-ba55-781585253063" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
